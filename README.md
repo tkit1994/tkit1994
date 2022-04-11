@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about linux & programming
 - 🔑 PGP: 
   - DA264133 (short)
-  - 7D88 18FF 7689 88A4 D522  DF91 B598 B205 DA26 4133 (full)
+  - 7D88 18FF 7689 88A4 D522  DF91 B598 B205 DA26 4133 (fingerprint)
 - ❤️ less is more
 
